@@ -1,15 +1,20 @@
-# Hi, I'm Miguel 👋
+# Hi, I'm Miguel
 
 Systems Engineering student (6th semester) at **Universidad Pontificia Bolivariana**, Colombia.  
-Previously studied Bioengineering — I switched paths to focus on infrastructure, software, and machine learning.  
+Previously studied Bioengineering, I switched paths to focus on infrastructure, software, and machine learning.  
 I take on freelance infrastructure projects on the side.
 
 ---
 
-## What I'm working on
+## I'm currently working on:
 
-- **Systems Engineering** — Universidad Pontificia Bolivariana (6th semester)
-- **Freelance** — Network infrastructure design (VLANs, VPNs, self-hosted services)
+- **Systems Engineering**: Universidad Pontificia Bolivariana (6th semester)
+
+---
+
+## Previous relevant work:
+
+- **Freelance**: Network infrastructure design (VLANs, VPNs, self-hosted services)
 
 ---
 
