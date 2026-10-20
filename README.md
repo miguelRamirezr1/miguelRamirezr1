@@ -1,6 +1,6 @@
 # Hi, I'm Miguel
 
-Systems Engineering student (7th semester) at **Universidad Pontificia Bolivariana**, Colombia.  
+Systems Engineering student (8th semester) at **Universidad Pontificia Bolivariana**, Colombia.  
 Previously studied Bioengineering, I switched paths to focus on infrastructure, software, and machine learning.  
 I take on freelance infrastructure projects on the side.
 
@@ -8,7 +8,7 @@ I take on freelance infrastructure projects on the side.
 
 ## I'm currently working on:
 
-- **Systems Engineering**: Universidad Pontificia Bolivariana (6th semester)
+- **Systems Engineering**: Universidad Pontificia Bolivariana (8th semester)
 
 ---
 
